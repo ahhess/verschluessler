@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VerschluesslerApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="codeword">Codewort</string>
+    <string name="input">Eingabetext</string>
+    <string name="output">Übersetzung</string>
+    <string name="encode">Verschluesseln</string>
+    <string name="decode">Entschluesseln</string>
+
+</resources>
